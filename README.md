@@ -22,9 +22,9 @@
 ## GitHub Stats 
 <div align="center">
   <a>
-    <img width="600" align="center" src="https://github-readme-stats.vercel.app/api?username=n1k4nwt&show_icons=true&theme=transparent" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=n1k4nwt&show_icons=true&theme=transparent" />
   </a>
   <a>
-    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1k4nwt&layout=donut" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1k4nwt&layout=donut" />
   </a>
 </div>  
